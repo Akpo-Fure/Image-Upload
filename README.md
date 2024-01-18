@@ -15,7 +15,7 @@ This is an image upload API built using Node.js, TypeScript, Express.js, and Mon
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Akpo-Fure/Node-Js-Task-Manager.git](https://github.com/Akpo-Fure/FullStack-ExpressJs-library.git)
+git clone https://github.com/Akpo-Fure/Image-Upload.git
 ```
 
 2. Install the dependecies using yarn
